@@ -1,0 +1,139 @@
+.button {
+  margin-top: 30px;
+}
+.button1 {
+  width: 110px;
+  color: rgb(64, 64, 218);
+  height: 35px;
+  background-color: white;
+  margin-left: -400px;
+  border-radius: 5px;
+  border: 2px solid blue;
+}
+.button2 {
+  width: 110px;
+  color: white;
+  height: 35px;
+  background-color: rgb(69, 69, 121);
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+.button3 {
+  width: 250px;
+  color: white;
+  font-size: 1rem;
+  height: 40px;
+  background-color: #7d2ae8;
+  margin-left: 15px;
+  border: none;
+  margin-top: 15px;
+  border-radius: 4px;
+}
+.button4 {
+  width: 250px;
+  color: rgb(88, 88, 170);
+  height: 40px;
+  background-color: white;
+  margin-left: 15px;
+  border: 2px solid blue;
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.image {
+  background: url("../../../public/Images/OIP.jpg");
+  background-size: cover;
+  width: 658px;
+  height: 439px;
+  align-items: center;
+  margin-left: 450px;
+  margin-top: 20px;
+  background-repeat: no-repeat;
+  border: none;
+  border-radius: 7px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.transparent {
+  margin-left: 100px;
+  width: 30px;
+  height: 30px;
+  background-image: url("../../../public/Images/OIP.jpg");
+  border: 1px solid lightgrey;
+}
+.red {
+  width: 30px;
+  height: 30px;
+  background-color: Red;
+  margin-left: 240px;
+  border: none;
+}
+.yellow {
+  width: 30px;
+  height: 30px;
+  background-color: yellow;
+  margin-left: 10px;
+  border: none;
+}
+.pink {
+  width: 30px;
+  height: 30px;
+  background-color: pink;
+  border: none;
+}
+.cyan {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(0, 255, 179);
+  margin-left: 10px;
+  border: none;
+}
+.mixed {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  background: conic-gradient(
+    pink 0deg 90deg,
+    violet 90deg 180deg,
+    khaki 180deg 270deg,
+    orange 270deg 360deg
+  );
+  padding: 2px 2px 2px 2px;
+}
+
+.transparent-box {
+  margin-left: 60px;
+  margin-top: -33px;
+}
+.red-box {
+  margin-top: -33px;
+  margin-left: 0px;
+}
+.pink-box {
+  margin-top: -33px;
+  margin-left: 320px;
+}
+
+.cyan-box {
+  margin-top: -33px;
+  margin-left: 390px;
+}
+.yellow-box {
+  margin-top: -33px;
+  margin-left: 470px;
+}
+
+.mixed-box {
+  margin-top: -33px;
+  margin-left: 545px;
+}
+.restart {
+  margin-top: -28px;
+  margin-left: 655px;
+}
+
+.display{
+  display: none;
+}
